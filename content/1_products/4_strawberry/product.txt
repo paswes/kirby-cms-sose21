@@ -1,0 +1,29 @@
+Title: product-four
+
+----
+
+Name: Strawberry
+
+----
+
+Description: This is a strawberry!
+
+----
+
+Price: 4
+
+----
+
+Discounttype: Total
+
+----
+
+Discount: 1
+
+----
+
+Availability: Available
+
+----
+
+Tags: 

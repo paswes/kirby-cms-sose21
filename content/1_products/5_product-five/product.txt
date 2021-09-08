@@ -1,0 +1,25 @@
+Title: product-five
+
+----
+
+Name: Watermelon
+
+----
+
+Description: This is a watermelon!
+
+----
+
+Price: 5
+
+----
+
+Discounttype: 
+
+----
+
+Availability: Hidden
+
+----
+
+Tags: 

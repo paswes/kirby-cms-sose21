@@ -1,0 +1,14 @@
+title: File
+
+accept:
+  mime: image/*
+
+fields:
+  alt:
+    width: 1/2
+    type: text
+    help: Provide an alternative desciption if the image can not be shown
+  caption:
+    width: 1/2
+    type: text
+    help: Provide a caption for this image

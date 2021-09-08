@@ -1,0 +1,22 @@
+.product-layout {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 6rem;
+}
+
+.product-info dt {
+  font-weight: bold;
+}
+
+.product-images ul {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  align-items: center;
+  grid-gap: 1.5rem;
+}
+
+.product-images img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}

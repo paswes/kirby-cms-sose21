@@ -1,0 +1,61 @@
+title: Product
+
+columns:
+  - width: 1/2
+    sections:
+      info:
+        type: fields
+        fields:
+          name:
+            label: Title
+            icon: title
+            placeholder: Product title
+            required: true
+            maxlength: 50
+            type: text
+          description:
+            label: Description
+            placeholder: Product description
+            help: Please provide a product description
+            type: textarea
+          price:
+            width: 1/2
+            label: Price
+            placeholder: Amount
+            before: Total
+            after: $
+            step: 0.01
+            required: true
+            type: number
+          discount:
+            width: 1/2
+            label: Discount
+            placeholder: Amount
+            before: Total
+            after: $
+            type: number
+          availability:
+            label: Status
+            required: true
+            type: select
+            options:
+              - Available
+              - Out of stock
+              - Hidden
+          tags:
+            label: Tags
+            icon: tag
+            help: Confirm a tag by hitting enter
+            type: tags
+
+  - width: 1/2
+    sections:
+      images:
+        type: files
+        size: tiny
+        info: "{{ file.dimensions }}"
+        min: 1
+        max: 5
+        layout: cards
+        image:
+          ratio: 1/1

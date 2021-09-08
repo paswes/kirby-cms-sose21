@@ -1,0 +1,33 @@
+Title: service-three
+
+----
+
+Name: Making a fruit salat
+
+----
+
+Description: Combining fruits to a delicious fruit salat!
+
+----
+
+Price: 69
+
+----
+
+Discount: 9
+
+----
+
+Duration: 40
+
+----
+
+Place: Store
+
+----
+
+Availability: Out of stock
+
+----
+
+Tags: 

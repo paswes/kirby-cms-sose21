@@ -1,0 +1,61 @@
+title: Service
+
+sections:
+  info:
+    type: fields
+    fields:
+      name:
+        label: Title
+        icon: title
+        placeholder: Service title
+        required: true
+        maxlength: 50
+        type: text
+      description:
+        label: Description
+        placeholder: Service description
+        help: Please provide a service description
+        type: textarea
+      price:
+        width: 1/2
+        label: Price
+        placeholder: Amount
+        before: Total
+        after: $
+        step: 0.01
+        required: true
+        type: number
+      discount:
+        width: 1/2
+        label: Discount
+        placeholder: Amount
+        before: Total
+        after: $
+        type: number
+      duration:
+        label: Duration
+        placehoder: Minutes
+        before: Total
+        after: min
+        step: 1
+        required: true
+        type: number
+      place:
+        label: Where
+        type: select
+        options:
+          - Store
+          - Online
+      availability:
+        label: Status
+        required: true
+        type: select
+        options:
+          - Available
+          - Out of stock
+          - Hidden
+      tags:
+        label: Tags
+        icon: tag
+        help: Confirm a tag by hitting enter
+        type: tags

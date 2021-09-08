@@ -1,0 +1,29 @@
+Title: service-one
+
+----
+
+Name: Cleaning your fruits
+
+----
+
+Description: Yes we are cleaning your fruits so they look pretty!
+
+----
+
+Price: 10
+
+----
+
+Duration: 60
+
+----
+
+Place: Store
+
+----
+
+Availability: Available
+
+----
+
+Tags: 

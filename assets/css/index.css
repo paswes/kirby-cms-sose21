@@ -1,0 +1,22 @@
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+ul {
+  list-style: none;
+}
+
+.products {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 1.5rem;
+  grid-row-gap: 3rem;
+}
+
+.products img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin-bottom: .5rem;
+}

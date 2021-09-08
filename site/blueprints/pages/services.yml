@@ -1,0 +1,19 @@
+title: Services
+
+sections:
+  drafts:
+    headline: Drafts
+    type: pages
+    layout: list
+    template: service
+    info: "{{ page.name }}"
+    help: These products are not published yet
+    status: drafts
+
+  published:
+    headline: Published
+    type: pages
+    layout: cards
+    template: service
+    info: "{{ page.name }}"
+    status: published

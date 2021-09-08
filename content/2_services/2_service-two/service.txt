@@ -1,0 +1,29 @@
+Title: service-two
+
+----
+
+Name: Cutting your fruits
+
+----
+
+Description: We are cutting your fruits in many pieces!
+
+----
+
+Price: 5
+
+----
+
+Duration: 20
+
+----
+
+Place: Online
+
+----
+
+Availability: Available
+
+----
+
+Tags: 

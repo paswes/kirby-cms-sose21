@@ -1,0 +1,29 @@
+Title: product-three
+
+----
+
+Name: Peach
+
+----
+
+Description: This is a peach!
+
+----
+
+Price: 3
+
+----
+
+Discount: 0.5
+
+----
+
+Availability: Out of stock
+
+----
+
+Tags: 
+
+----
+
+Discounttype: 

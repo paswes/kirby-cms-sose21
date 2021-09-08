@@ -1,0 +1,29 @@
+Name: Apple
+
+----
+
+Description: This is an apple!
+
+----
+
+Price: 1
+
+----
+
+Availability: Available
+
+----
+
+Tags: 
+
+----
+
+Discounttype: 
+
+----
+
+Test: out
+
+----
+
+Status: available

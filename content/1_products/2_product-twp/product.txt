@@ -1,0 +1,25 @@
+Title: product-two
+
+----
+
+Name: Banana
+
+----
+
+Description: This is a banana!
+
+----
+
+Price: 2
+
+----
+
+Discounttype: 
+
+----
+
+Availability: Available
+
+----
+
+Tags: 
